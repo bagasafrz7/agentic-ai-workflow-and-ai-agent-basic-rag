@@ -1,0 +1,42 @@
+- Tesla, Inc. didirikan pada Juli 2003 oleh Martin Eberhard dan Marc Tarpenning.
+- Elon Musk bergabung sebagai chairman dan CEO pada 2008.
+- Perusahaan ini berkantor pusat di Austin, Texas, setelah sebelumnya di Palo Alto, California.
+- Tesla mempekerjakan sekitar 125.665 orang pada tahun 2024.
+- Misi Tesla adalah mempercepat transisi dunia menuju energi berkelanjutan.
+- Produk kendaraan Tesla dimulai dengan Roadster pada 2008.
+- Model S diluncurkan pada 2012 sebagai sedan listrik mewah.
+- Model X hadir pada 2015 sebagai SUV dengan pintu Falcon Wing.
+- Model 3 menjadi sedan yang lebih terjangkau pada 2017.
+- Model Y diluncurkan pada 2020 dan menjadi mobil terlaris di dunia pada 2023 dan 2024.
+- Tesla memperkenalkan Tesla Semi pada 2022 dan Cybertruck pada 2023.
+- Produk energi Tesla termasuk Solar Roof, panel surya, Powerwall, Powerpack, dan Megapack.
+- Tesla membukukan pendapatan sebesar 97,7 miliar dolar AS pada 2024.
+- Laba bersih Tesla pada 2024 sebesar 7,1 miliar dolar.
+- Total aset perusahaan mencapai 122,1 miliar dolar dan ekuitas pemegang saham sebesar 72,9 miliar dolar.
+- Pada 2024, Tesla mengirimkan sekitar 1,77 juta kendaraan.
+- Tesla melakukan deployment penyimpanan energi sebesar 31,4 GWh.
+- Tesla menguasai 17,6% pangsa pasar kendaraan listrik baterai global.
+- Gigafactory Nevada memproduksi sel dan paket baterai.
+- Gigafactory Shanghai melayani pasar Asia dan Eropa.
+- Gigafactory Berlin adalah hub produksi Model Y di Eropa.
+- Gigafactory Texas di Austin untuk Cybertruck dan Model Y.
+- Tesla membangun jaringan Supercharger global dengan lebih dari 50.000 charger.
+- Inovasi utama Tesla mencakup Autopilot dan Full Self-Driving.
+- Tesla mengembangkan baterai 4680 untuk meningkatkan efisiensi.
+- Teknologi gigacasting digunakan untuk frame kendaraan.
+- Pembaruan software OTA dilakukan rutin tanpa perlu ke pusat servis.
+- Tesla mengembangkan Megapack untuk integrasi energi terbarukan.
+- Tesla Bot (Optimus) adalah robot humanoid berbasis AI.
+- Cybercab adalah kendaraan ride-hailing otonom masa depan.
+- Akuisisi SolarCity pada 2016 memperluas bisnis energi surya.
+- Akuisisi Grohmann Engineering, DeepScale, Hibar Systems, dan Perbix meningkatkan kemampuan otomatisasi, AI, dan teknologi baterai.
+- Kemitraan dengan Panasonic, LG Chem, CATL, dan SpaceX untuk berbagi keahlian R&D.
+- Tesla menghadapi kompetisi ketat dari BYD, NIO, Rivian, Lucid Motors, dan produsen mobil tradisional.
+- Regulasi terkait klaim keselamatan Autopilot dan FSD menjadi tantangan.
+- Keterlambatan produksi Cybertruck juga menjadi hambatan.
+- Kontroversi kepemimpinan Elon Musk dan kendala rantai pasokan global terkait lithium dan kobalt menjadi tantangan.
+- Visi Tesla adalah mempertahankan kepemimpinan dalam adopsi global kendaraan listrik.
+- Tesla ingin memperluas ekspansi ke bidang robotika dan kecerdasan buatan.
+- Mendorong adopsi massal layanan ride-hailing otonom seperti Robotaxi atau Cybercab adalah bagian dari visi.
+- Integrasi lebih lanjut dari solusi surya dan penyimpanan energi di seluruh dunia menjadi kunci.
+
